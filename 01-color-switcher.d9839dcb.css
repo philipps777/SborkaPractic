@@ -1,0 +1,2 @@
+.container{margin:100px 50px 50px;display:flex}.content{width:156px;border:3px solid #000;margin:0 auto}.item{width:50px;height:50px;text-align:center;cursor:pointer;vertical-align:middle;border:1px solid #000;font-size:25px;line-height:50px;transition:background .1s;display:inline-block}.item:hover{background-color:rgba(153,7,68,.047)}.box{width:200px;height:200px;background-color:#fff;padding:30px}
+/*# sourceMappingURL=01-color-switcher.d9839dcb.css.map */
